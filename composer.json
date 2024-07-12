@@ -1,0 +1,17 @@
+{
+    "name": "noattachments/obsidian",
+    "description": "EnvironmentX; the black box of code",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Liam Nelson",
+            "email": "lmjnelson@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "EnvX\\": "src/EnvX/"
+        }
+    },
+    "require": {}
+}
